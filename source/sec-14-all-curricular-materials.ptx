@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<subsection xml:id="sec-14-all-curricular-materials">
+  <title>Curricular Materials</title>
+
+  <p>
+    <ul>
+      <li>
+        <p>Required: ALEKS Access</p>
+        <p>
+          <ul>
+            <li>ISBN 9781265826239 (18 Week Access) <alert>OR</alert> 9781264713899 (52 Week Access)</li>
+            <li>Access to ALEKS can be purchased through the bookstore or directly through McGraw Hill.</li>
+            <li>See the video below for instructions on how to access ALEKS to purchase access or to redeem your access code.</li>
+          </ul>
+        </p>
+      </li>
+      <li>
+        <p>Optional: Physical Textbook</p>
+        <p>
+          <ul>
+            <li>Miller and Gerken <em>College Algebra &amp; Trigonometry</em></li>
+            <li>ISBN 9781260260441</li>
+          </ul>
+        </p>
+      </li>
+    </ul>
+  </p>
+
+  <figure xml:id="vid-course-materials">
+    <caption>How to Access ALEKS through Canvas</caption>
+    <video source="course-materials" />
+  </figure>
+  
+</subsection>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-course-resources" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Course Resources</title>
+
+  <introduction>
+    <p>
+      Everyone gets stuck and struggles with math sometimes, even "math people". When this happens, it is important to be aware of the resources that are available to help you get unstuck. Here are a few to get you started.
+    </p>
+  </introduction>
+  
+  <xi:include href="sec-mc-resources.ptx" />
+  <xi:include href="sec-canvas-resources.ptx" />
+  <xi:include href="sec-internet-resources.ptx" />
+</chapter>

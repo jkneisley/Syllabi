@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-additional-policies-and-information" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Policies and Support</title>
+
+  <xi:include href="sec-notice.ptx" />
+  <xi:include href="sec-continuity-of-instruction.ptx" />
+  <xi:include href="sec-ferpa.ptx" />
+  <xi:include href="sec-ada-statement.ptx" />
+  <xi:include href="sec-non-discrimination-statement.ptx" />
+  <xi:include href="sec-withdrawal-policy.ptx" />
+  <xi:include href="sec-grievances-or-complaints.ptx" />
+  <xi:include href="sec-math-and-science-division-information.ptx" />
+</section>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <!-- we first include a file which contains the docinfo element: -->
+  <xi:include href="./docinfo.ptx" />
+
+  <book xml:id="my-great-book">
+    <title>Syllabus</title>
+    <subtitle>MATH 1314 College Algebra | Web-Based Instruction | Summer II 2026</subtitle>
+
+    <!-- Include frontmatter -->
+    <xi:include href="./frontmatter1314WBISummer.ptx" />
+
+    <!-- Include shared syllabus content -->
+    <xi:include href="./ch-chapter-title.ptx" />
+
+    <!-- Include resources content -->
+    <xi:include href="./ch-course-resources.ptx" />
+
+    <!-- Include course-specific addenda -->
+    <xi:include href="./ch-1314-WBI-summer.ptx" />
+
+
+    <!-- Include backmatter -->
+    <xi:include href="./backmatter.ptx" />
+
+  </book>
+</pretext>

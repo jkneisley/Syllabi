@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<subsection xml:id="sec-internet-resources">
+  <title>Available Through the Internet</title>
+
+<p>
+  <alert>The following resources are not managed by Midland College.  They have been found to generally be accurate mathematically but may not be enitrely accessible to all viewers.</alert>
+</p>
+<paragraphs>
+  <title>Writing in Math</title>
+  <p><url href="https://www.hmc.edu/math/writing-math/">Tips for Writing Math Well</url> from the Harvey Mudd College Department of Mathematics.</p>
+</paragraphs>
+
+<paragraphs>
+  <title>Online Tutorials</title>
+  <p>
+    <ul>
+      <li><url href="http://www.khanacademy.org/">Khan Academy</url></li>
+      <li><url href="http://www.mathandscience.com/">Math and Science</url></li>
+      <li><url href="https://www.youtube.com/c/patrickjmt">Patrick JMT</url></li>
+      <li><url href="http://tutorial.math.lamar.edu/">Paul's Online Notes</url></li>
+      <li><url href="https://www.youtube.com/@profrobbob">Prof Rob Bob</url></li>
+      <li><url href="http://www.purplemath.com/">Purple Math</url></li>
+    </ul>
+  </p>
+</paragraphs>
+</subsection>

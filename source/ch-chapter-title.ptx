@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-chapter-title" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>General Information</title>
+
+  <xi:include href="sec-instructor-info.ptx" />
+  <xi:include href="sec-additional-policies-and-information.ptx" />
+  <xi:include href="sec-expectations-for-academic-integrity.ptx" />
+</chapter>
