@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-instructor-info" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Instructor Info</title>
+  <title>Instructor Information</title>
   <p>Hi! My name is Jamie Kneisley. Please address me as Dr. Kneisley (pronounced like “nicely” but with a z sound instead of a c sound) or Dr. K and be sure to let me know if I mispronounce your name or if you would like to be called something other than what is on the roster. I made a short video to help you get to know me a little bit.</p>
 
   <figure xml:id="vid-sample">
@@ -9,36 +9,32 @@
     <video source="dr-k-intro" />
   </figure>
 
-    <paragraphs>
-      <title>Contact Information</title>
-    </paragraphs>
-    
-  <p><em>Phone:</em> (432) 685-4645</p>  
-  <p><em>Email:</em> jkneisley@midland.edu</p>
-  <p><em>Office Location:</em> MHAB 117</p>
-  <p><em>Office Hours:</em> Summer office hours are by appointment only. Please send me an email with three or four times when you can meet and I will do my best to make one of them work.</p>
-    <paragraphs>
-      <title>Email Etiquette</title>
-    </paragraphs>
-    
-  <p><em>Preferred Contact Method:</em> Canvas Messages is preferred. Alternatively, you may use your MC student account to send a message. Please include your name and course in the body of your message.</p>
-  <p>
-    <ul>
-      <li>
-          Include a subject that summarizes your request or question topic.
-      </li>
-      <li>
-          Use a greeting and closing. A simple “Hello Dr. K” and “Thank you” goes a long way.
-      </li>
-      <li>
-        If you are emailing about a specific assignment, please use the name of the assignment as it appears in Canvas.
-      </li>
-      <li>
-        If you are emailing about a technical issue, screenshots help me understand exactly what you are describing and often help us avoid going back and forth. <url href="https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl">GoFullPage</url> is a Chrome extension that will allow you to take screenshots.
-      </li>
-    </ul>
-  </p>
+  <paragraphs>
+    <title>Contact Information</title>
 
-  <alert>Response Time</alert>
-  <p>I aim to respond to all emails within 24 hours, though this may be longer during exam periods, on the weekends or during holidays. If you do not hear from me within a reasonable timeframe, please do not hesitate to follow up.</p>
+    <p><em>Phone:</em> (432) 685-4645</p>
+    <p><em>Email:</em> jkneisley@midland.edu</p>
+    <p><em>Office Location:</em> MHAB 117</p>
+    <p><em>Office Hours:</em> Summer office hours are by appointment only. Please send me an email with three or four times when you can meet and I will do my best to make one of them work.</p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Email Etiquette</title>
+
+    <p><em>Preferred Contact Method:</em> Canvas Messages is preferred. Alternatively, you may use your MC student account to send a message. Please include your name and course in the body of your message.</p>
+    <list>
+      <title>Email Tips</title>
+      <ul>
+        <li>Include a subject that summarizes your request or question topic.</li>
+        <li>Use a greeting and closing. A simple “Hello Dr. K” and “Thank you” goes a long way.</li>
+        <li>If you are emailing about a specific assignment, please use the name of the assignment as it appears in Canvas.</li>
+        <li>If you are emailing about a technical issue, screenshots help me understand exactly what you are describing and often help us avoid going back and forth. <url href="https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl">GoFullPage</url> is a Chrome extension that will allow you to take screenshots.</li>
+      </ul>
+    </list>
+  </paragraphs>
+
+  <warning>
+    <title>Response Time</title>
+    <p>I aim to respond to all emails within 24 hours, though this may be longer during exam periods, on the weekends or during holidays. If you do not hear from me within a reasonable timeframe, please do not hesitate to follow up.</p>
+  </warning>
 </section>

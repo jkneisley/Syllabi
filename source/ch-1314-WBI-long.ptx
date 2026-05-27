@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-course-specific-addenda-long" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Course-Specific Addenda</title>
+
+  <xi:include href="sec-14-all-curricular-materials.ptx" />
+  <xi:include href="sec-14-homework-platform-aleks.ptx" />
+  <xi:include href="sec-14-16-24-all-calculators" />
+  <xi:include href="sec-14-writing-assignments-long.ptx" />
+  <xi:include href="sec-14-honors-projects-and-research-long.ptx" />
+</chapter>

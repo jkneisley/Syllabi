@@ -4,6 +4,7 @@
   <title>General Information</title>
 
   <xi:include href="sec-instructor-info.ptx" />
+  <xi:include href="sec-course-navigation.ptx" />
   <xi:include href="sec-additional-policies-and-information.ptx" />
   <xi:include href="sec-expectations-for-academic-integrity.ptx" />
 </chapter>

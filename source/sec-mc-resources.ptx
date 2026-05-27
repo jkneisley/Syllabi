@@ -3,17 +3,14 @@
 <subsection xml:id="sec-mc-resources">
   <title>Available Through Midland College</title>
 
-  <p>
+  <list>
+    <title>Campus Supports</title>
     <ul>
       <li>Dr. Kneisley, your instructor.</li>
       <li>
-        <p>Peer tutoring through the Midland College Math Lab (not in Pearson's MyLab) will be held in person in MHAB 125.</p>
-        <p>
-          <ul>
-            <li>Please see the <url href="https://www.midland.edu/services-resources/learning-resource-center/academic-support-services/math-lab.php">Chap Success Center</url> or email <email>tutoring@midland.edu</email> for more information about availability.</li>
-          </ul>
-        </p>
+        <p>Peer tutoring through the Midland College Math Lab (outside of ALEKS) will be held in person in MHAB 125.</p>
+        <p>Please see the <url href="https://www.midland.edu/services-resources/learning-resource-center/academic-support-services/math-lab.php">Chap Success Center</url> or email <email>tutoring@midland.edu</email> for more information about availability.</p>
       </li>
     </ul>
-  </p>
+  </list>
 </subsection>

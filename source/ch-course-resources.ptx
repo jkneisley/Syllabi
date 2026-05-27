@@ -12,4 +12,6 @@
   <xi:include href="sec-mc-resources.ptx" />
   <xi:include href="sec-canvas-resources.ptx" />
   <xi:include href="sec-internet-resources.ptx" />
+  <xi:include href="sec-study-skills.ptx" />
+  <xi:include href="sec-all-MathAnxiety.ptx" />
 </chapter>

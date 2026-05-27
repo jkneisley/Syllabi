@@ -3,10 +3,10 @@
 <subsection xml:id="sec-14-16-24-all-calculators">
   <title>Calculators</title>
 
-  <p> Full participation in this course requires the use of a scientific calculator.  It is recommended that you purchase one, especially if you will be taking additional math, physics, chemistry, engineering, or business courses, so that you can practice using it and become familiar with it prior to taking your exams.</p>  
-  <p> However, purchase is not strictly necessary.  Free online calculators are available and physical calculators can be borrowed from your instructor (if testing in class) or the exam center (check with your proctor first).</p>
+  <p> Full participation in this course requires the use of a scientific calculator.  It is <alert>recommended</alert> that you purchase one, especially if you will be taking additional math, physics, chemistry, engineering, or business courses, so that you can practice using it and become familiar with it prior to taking your exams.</p>  
+  <p> However, purchase is not strictly necessary.  Free online calculators are available and <alert>SOME</alert> physical calculators can be borrowed from your instructor, if testing in class, or the exam center (check with your instructor or proctor first).</p>
 
-    <p><em>Free Online Calculators</em></p>
+    <paragraphs><title>Free Online Calculators</title></paragraphs>
 
 <ul>
     <li><url href="https://www.desmos.com/scientific">Desmos Scientific Calculator</url></li>
@@ -20,30 +20,77 @@
   
 
 
-<p><alert><em>Scientific Calculators</em></p>
+<paragraphs><title>Allowed: Scientific Calculators</title></paragraphs>
+<p>A scientific calculator is an calculator used for math, science, and engineering. It can perform advanced functions like trigonometry, logarithms, exponents, and square roots, in addition to basic calculations.</p>
+
+
 <p>The following is a non-exhaustive list of scientific calculators that are allowed and recommended for use on proctored exams.</p>
 <ul>
-    <li><url href="https://www.google.com/search?q=TI+36X+Pro">TI 36X Pro</url></li>
-    <li><url href="https://www.google.com/search?q=TI+30XS">TI 30XS</url></li>
-    <li><url href="https://www.google.com/search?q=Casio+ClassWiz+FX-991EX">Casio Classwiz</url></li>
+    <li>
+        <url href="https://www.google.com/search?q=TI+36X+Pro">TI 36X Pro</url>
+        <figure>
+            <image source="36X-Pro.png" alt="The 36X Pro from Texas Instruments" width="25%"/>
+        </figure>
+    </li>
+    <li>
+        <url href="https://www.google.com/search?q=TI+30XS">TI 30XS</url>
+        <figure>
+            <image source="TI-30XS.png" alt="The 30XS from Texas Instruments" width="25%"/>
+        </figure>
+    </li>
+    <li>
+        <url href="https://www.google.com/search?q=Casio+ClassWiz+FX-991EX">Casio Classwiz</url>
+        <figure>
+            <image source="Classwiz.avif" alt="The Classwiz from Casio" width="25%"/>
+        </figure>
+    </li>
 </ul>
 
-<p><em>Allowed But Insufficient Calculators</em></p>
-<p>The following calculators are four-function calculators.  They are allowed for use but will not likely be sufficient to meet your needs.</p>
-<ul>
-    <li><url href=""></url></li>
-    <li><url href=""></url></li>
-    <li><url href=""></url></li>
-</ul>
 
 
-<p><em>Disallowed Calculators</em></p>
+<paragraphs><title>Allowed But Insufficient: Four-Function (Basic) Calculators</title></paragraphs>
+<p>A four-function calculator may actually have four, five, or six basic functions. They are limited to addition, subtraction, multiplication, division, square roots, and percentage.</p>
+
+<p>Some four-function calculators are shown below.  They are allowed for use but will not likely be sufficient to meet your needs.</p>
+
+
+    <figure>
+        <image source="TI108.jpg" alt="The 108 from Texas Instruments" width="25%"/>
+    </figure>
+
+    <figure>SharpEL233
+        <image source="SharpEL233.jpg" alt="The EL233 from Sharp" width="25%"/>
+    </figure>
+    
+    <figure>
+        <image source="Generic 4f calculator.jpg" alt="A generic four-function calculator" width="25%"/>
+    </figure>
+
+<paragraphs><title>Disallowed: Graphing Calculators</title></paragraphs>
+<p>A graphing calculator is an advanced type of calculator that can plot and graph functions, often on a dot-matrix display. In addition to the capabilities of a scientific calculator, it can visually represent functions, handle multiple equations simultaneously, and often support programming and the ability to store data or functions.</p>
+
 <p>The following is a non-exhaustive list of scientific calculators that are <alert>not</alert> allowed for use on proctored exams.</p>
+
 <ul>
-    <li><url href=""></url></li>
-    <li><url href=""></url></li>
-    <li><url href=""></url></li>
+    <li>
+        TI nSpire (with or without CAS)
+        <figure>
+            <image source="nSpire.jpg" alt="The nSpire from Texas Instruments" width="25%"/>
+        </figure>
+    </li>
+    <li>
+        TI-84 CE
+        <figure>
+            <image source="TI84.jpg" alt="The TI-84 CE from Texas Instruments" width="25%"/>
+        </figure>
+    </li>
+    <li>
+        Casio FX-CG50
+        <figure>
+            <image source="CasioFX-CG50.avif" alt="The FX-CG50 from Casio" width="25%"/>
+        </figure>
+    </li>
 </ul>
 
-
+<alert> If you are unsure whether a particular calculator is allowed, please contact your instructor for clarification.</alert>
 </subsection>

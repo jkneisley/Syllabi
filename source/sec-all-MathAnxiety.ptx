@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<subsection xml:id="sec-all-MathAnxiety" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Math Anxiety</title>
+
+  <introduction>
+    <p>The American Psychology Association defines anxiety as follows:</p>
+
+    <p>An emotion characterized by apprehension and somatic symptoms of tension in which an individual anticipates impending danger, catastrophe, or misfortune. The body often mobilizes itself to meet the perceived threat: muscles become tense, breathing is faster, and the heart beats more rapidly.</p>
+
+    <p>Anxiety may be distinguished from fear both conceptually and physiologically, although the two terms are often used interchangeably. Anxiety is considered a future-oriented, long-acting response broadly focused on a threat, whereas fear is an appropriate, present-oriented, and short-lived response to a clearly identifiable and specific threat.</p>
+
+    <p>When anxiety is directed toward math, it can lead to avoiding the "threat" altogether, which can then start or perpetuate a destructive cycle where avoidance leads to poor performance, poor performance leads to more anxiety, and more anxiety leads to more avoidance.</p>
+
+    <p>The good news is that you can learn to reduce it overall and manage it when it happens.</p>
+  </introduction>
+
+  <xi:include href="sec-all-ManagingAnxiety.ptx" />
+  <xi:include href="sec-all-ReducingAnxiety.ptx" />
+
+</subsection>
