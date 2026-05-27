@@ -1,0 +1,25 @@
+<book xmlns:xi="http://www.w3.org/2001/XInclude">
+
+  <title>Test Syllabus</title>
+
+  <book xmlns:xi="http://www.w3.org/2001/XInclude">
+
+  <title>Test Syllabus</title>
+
+  <chapter>
+    <title>Course Information</title>
+
+    <xi:include href="../content/courses/1314/sec-1-description.ptx"/>
+
+  </chapter>
+
+  <chapter>
+    <title>Institutional Policies</title>
+
+    <xi:include href="../content/core/sec-1-ai-policy.ptx"/>
+    <xi:include href="../content/core/sec-1-withdrawal.ptx"/>
+    <xi:include href="../content/core/sec-1-ada.ptx"/>
+
+  </chapter>
+
+</book>
